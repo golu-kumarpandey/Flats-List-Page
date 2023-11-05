@@ -1,0 +1,39 @@
+body{
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    background-size: cover;
+    
+    
+}
+.big{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    height: 100vh;
+    
+}
+button{
+    height: 40px;
+    width: 90px;
+    font-weight: bold;
+    color: #ffff;
+    background-color: #f19116;
+    border-radius: 10px;
+    border-width: 0px;
+}
+h1{
+    color: #f19116 ;
+}
+p{
+    color:#7b8794 ;
+}
+.home-section{
+    background-color: #ffff;
+    display:flex ;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
